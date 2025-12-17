@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class ClienteUDP {
     public static void main(String[] args) {
-        final String IP = "localhost";
+        final String IP = "";
 
         try {
             DatagramSocket socket = new DatagramSocket();
